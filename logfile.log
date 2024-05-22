@@ -1,0 +1,3 @@
+[2024-05-21 20:57:30] [ INFO ] [OdontologoDaoH2:37] odontologo guardado: Odontologo{id=2, matricula='r-554', nombre='ANA', apellido='DIAZ'}
+[2024-05-21 20:57:30] [ INFO ] [OdontologoDaoH2:80] odontologo listado: Odontologo{id=1, matricula='F-45', nombre='PEDRITO', apellido='GOMEZ'}
+[2024-05-21 20:57:30] [ INFO ] [OdontologoDaoH2:80] odontologo listado: Odontologo{id=2, matricula='r-554', nombre='ANA', apellido='DIAZ'}
