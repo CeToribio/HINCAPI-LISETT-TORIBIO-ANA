@@ -24,4 +24,5 @@ class OdontologoEnMemoriaTest {
         assertEquals(1, odontologos.size());
 
     }
+
 }
